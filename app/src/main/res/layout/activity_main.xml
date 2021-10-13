@@ -49,7 +49,7 @@
         app:bar_success_color="@color/green"
         app:box_margin="0dp"
         app:height="40dp"
-        app:hide_otp="true"
+        app:hide_otp="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
